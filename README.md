@@ -9,7 +9,7 @@
 clone `zsh-gradle` to your zsh plugin directory.
 
 ```
-git clone https://github.com/yoshihitoh/zsh-gradle.git ~/.oh-my-zsh/custom/plugins/zsh-gradle
+git clone https://github.com/LiushuiXiaoxia/zsh-gradle.git ~/.oh-my-zsh/custom/plugins/zsh-gradle
 ```
 
 Then load as a plugin in your `.zshrc`
