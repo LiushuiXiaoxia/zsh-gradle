@@ -12,6 +12,8 @@ alias gwca="gwc;gwa"
 alias gwcb="gwc;gwb"
 alias gwcs="gwc;gws"
 
+alias gwdf="./gradlew depend > depend.log"
+
 function killGradle(){
     echo "before"
     jps | grep -i gradle
