@@ -8,11 +8,12 @@ alias gwar="GW assembleRelease"
 
 alias gwb="GW build"
 alias gws="GW --stop"
-alias gwca="gwc;gwa"
-alias gwcb="gwc;gwb"
-alias gwcs="gwc;gws"
 
-alias gwdf="./gradlew depend > depend.log"
+alias gwca="gwc; gwa"
+alias gwcb="gwc; gwb"
+alias gwcs="gwc; gws"
+
+alias gwdf="GW depend > depend.log"
 
 function killGradle(){
     echo "before"
