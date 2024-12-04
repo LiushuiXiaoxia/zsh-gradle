@@ -4,7 +4,7 @@
 
 `zsh-gradle` is a zsh plugin that provides alias for gradle tasks.
 
-# Instalation
+# Install
 
 clone `zsh-gradle` to your zsh plugin directory.
 
